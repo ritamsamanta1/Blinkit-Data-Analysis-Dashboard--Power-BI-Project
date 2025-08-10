@@ -13,7 +13,7 @@ This Power BI project presents an interactive dashboard for analyzing Blinkit's 
 * **📦 Product-Level Insights:** Analyze top-performing products, brands, and categories to understand consumer preferences.
 * **🛍️ Order Patterns:** Understand daily, weekly, and monthly order trends to identify peak purchasing times.
 * **💸 Revenue Visualization:** Explore sales contributions by product type, fat content, and outlet location.
-* **🧑‍🤝‍🧑 Customer & Outlet Analysis:** Evaluate how outlet establishment year and location impact sales performance.
+* **🧑‍🤝‍🧑 Customer & Outlet Analysis:** Evaluate how the outlet establishment year and location impact sales performance.
 * **📍 Location-Based Analysis:** Pinpoint sales hotspots and delivery trends by outlet location.
 
 ---
@@ -69,11 +69,10 @@ The dashboard was designed to answer the following key business questions:
 
 ## 📁 File Structure
 
-| File Name                    | Description                                                           |
-| ---------------------------- | --------------------------------------------------------------------- |
-| `Dashboard_of_Blinkit.pbix`  | The main Power BI project file containing all reports and data models.  |
-| `Blinkit_Data_file.xlsx`     | The primary dataset used for this analysis.                           |
-| `Dashboard_preview.png`      | A full-screen preview image of the final dashboard.                   |
-| `Sales.png`, `rating.png` etc. | Screenshots of individual KPI cards and chart visuals.                |
-| `background kpi.png`         | The custom background image used for the dashboard layout.            |
-| `README.md`                  | The documentation file for this project (this file).                  |
+| File Name                   | Description                                                                                  |
+| --------------------------- | -------------------------------------------------------------------------------------------- |
+| `BlinkIT Grocery Data.xlsx` | The primary Excel dataset used for this analysis.                                            |
+| `Blinkit Project.pbit`      | The Power BI Template file. Use this to create a new project with the same report structure.   |
+| `Dashboard_of_Blinkit.pbix` | The main Power BI project file, including the data model, queries, and the completed dashboard. |
+| `Dashboard_preview.png`     | A full-screen preview image of the final dashboard.                                          |
+| `README.md`                 | The documentation file for this project (this file).                                         |
